@@ -4,13 +4,6 @@ CS 319 Team Project 1-f
 Project Description: 
   This project is a classroom helper application which is mainly focused on peer reviewing system with different functionalities. 
 
-Group Members:
-  Lara Merdol
-  Akmuhammet Ashyralyyev
-  Berke Ceran
-  Güven Gergerli
-  Sıla Saraoğlu
-
 Features:
 1)	Login/Administration Screen
   •	Three different users which are students, TAs and instructor can login with their emails and passwords. According to login status, users are forwarded to dashboard screen.
