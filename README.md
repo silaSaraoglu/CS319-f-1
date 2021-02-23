@@ -42,6 +42,7 @@ Features:
 10)	Search Page
   •	Users can search a group or a user in the course.
   
+11)	Frequently asked questions page
 
 
 
